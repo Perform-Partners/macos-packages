@@ -2,3 +2,4 @@ Install[[:space:]]Spotify.pkg filter=lfs diff=lfs merge=lfs -text
 Maccy.pkg filter=lfs diff=lfs merge=lfs -text
 PDF[[:space:]]Reader[[:space:]]Pro.pkg filter=lfs diff=lfs merge=lfs -text
 Creative[[:space:]]Cloud[[:space:]]Installer.pkg filter=lfs diff=lfs merge=lfs -text
+*.pkg filter=lfs diff=lfs merge=lfs -text
