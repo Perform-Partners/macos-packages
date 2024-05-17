@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DirectConnection</key>
+	<string>false</string>
+	<key>DmsServerName</key>
+	<string></string>
+	<key>GatewayName</key>
+	<string></string>
+	<key>GatewayPort</key>
+	<string>443</string>
+	<key>URSKey</key>
+	<string></string>
+	<key>PacURL</key>
+	<string></string>
+	<key>Password</key>
+	<string></string>
+	<key>ProxyConnection</key>
+	<string>false</string>
+	<key>ProxyIpAddress</key>
+	<string></string>
+	<key>ProxyServerPort</key>
+	<string></string>
+	<key>UserName</key>
+	<string></string>
+	<key>WebServerName</key>
+	<string></string>
+	<key>WebServerPort</key>
+	<string>443</string>
+</dict>
+</plist>

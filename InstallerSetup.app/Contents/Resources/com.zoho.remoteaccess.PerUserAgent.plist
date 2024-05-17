@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WorkingDirectory</key>
+	<string>/Library/Application Support/MERemoteAccess</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/sh</string>
+		<string>/Library/Application Support/MERemoteAccess/launchRemoteAccessUserHandler.sh</string>
+	</array>
+	<key>WatchPaths</key>
+	<array>
+		<string>/Library/Application Support/MERemoteAccess/ConsoleUser.plist</string>
+	</array>
+	<key>Label</key>
+	<string>com.zoho.remoteaccess.PerUserAgent</string>
+</dict>
+</plist>
